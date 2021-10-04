@@ -1,0 +1,73 @@
+[{
+        "form": "Ballroom",
+        "instruction": "Learn how to Ballroom dance with our step by step Latin and Ballroom dance lessons online.Our videos will break everything to make sure you know your steps, timing and technique. In each mini course you will learn the most essential basic steps with HD videos.",
+        "img": "https://d22g5lrmqfbqur.cloudfront.net/assets/quiz_dancer_registration/style_thumbnails/Ballroom_Lacey_Schwimmer_214x116.jpg",
+        "cost": 215,
+        "id": 50509
+    } ,
+    {
+        "form": "Jazz",
+        "instruction": "Learning basic jazz dance steps are the first part of exploring jazz dance, an energetic and exciting display of physical prowess. Jazz dance itself is a combination of classical ballet moves mixed with steps from American popular culture, including African and Celtic dance influences. While it has become a fine art form, originally jazz dance was designed to entertain, and even the basic steps have a showy, extreme feel to them.",
+        "img": "https://d22g5lrmqfbqur.cloudfront.net/assets/quiz_dancer_registration/style_thumbnails/Jazz_Molly_Long_214x116.jpg",
+        "cost": 240,
+        "id": 50505
+    },
+    {
+        "form": "Ballet",
+        "instruction": "Mastering ballet takes great technique and consistent practice. With the right instructions, you can learn ballet dance steps at home. Whether you plan to dance in private or use the steps in a formal class setting, all you need is discipline and a bit of inspiration to learn and perfect them.",
+        "img": "https://d22g5lrmqfbqur.cloudfront.net/assets/quiz_dancer_registration/style_thumbnails/Ballet_Tiler_Peck_214x116.jpg",
+        "cost": 506,
+        "id": 50503
+    },
+    {
+        "form": "Tap",
+        "instruction": "Tap dancing is an exciting dance style that uses metal-plated shoes to create complicated clicking noises. No matter how old or young you are, you can become an amazing tap dancer with practice.",
+        "img": "https://d22g5lrmqfbqur.cloudfront.net/assets/quiz_dancer_registration/style_thumbnails/Tap_Maud_Arnold_214x116.jpg",
+        "cost": 410,
+        "id": 50504
+    },
+    
+    {
+        "form": "Contemporary",
+        "instruction": "Contemporary dance form is a mixture of dance genres like classical ballet, modern, lyrical & jazz styles. Unlike other dance forms, it isn’t a rigid choreographic style and is open to many possibilities of creating new variations.The dance form focuses on unexpected movements, self-expression, and freedom – while simultaneously maintaining a strong focus on technique. Mastering this dance form can take years but if you have a good sense of body coordination and style, you might want to try out some of the beginner classes.",
+        "img": "https://d22g5lrmqfbqur.cloudfront.net/assets/quiz_dancer_registration/style_thumbnails/Contemporary_Mackenzie_Dustman_214x116.jpg",
+        "cost": 350,
+        "id": 50502
+    },
+    {
+        "form": "Jazz Funk",
+        "instruction": "Jazz funk can best be understood as a cultivated form developed in studios as a response to the organic popularity of hip-hop dance and music. As hip-hop gained popularity, its moves and beats started to distance themselves from their spontaneous origins in New York City street styles as it gained further access into music clubs and commercial television. A great demand was created for more codified and precise moves which would be used by producers and choreographers in the emerging commercial dance market around street styles. Sometimes called “street jazz,” jazz funk is defined by its distinctness from hip-hop dance in the minds of the genre’s purists, while carving out a massive niche for itself in the music videos and stage productions of the 1980s.",
+        "img": "https://d22g5lrmqfbqur.cloudfront.net/assets/quiz_dancer_registration/style_thumbnails/Jazz_Funk_Brian_Friedmang_214x116.jpg",
+        "cost": 562,
+        "id": 50506
+    },
+    {
+        "form": "Lyrical",
+        "instruction": "Lyrical dance moves are a creative combination of ballet and jazz, meant to showcase the emotional spirit of the music through the body of the dancer. You can learn this flowy and free-spirited style by practicing these common and fun movements.",
+        "img": "https://d22g5lrmqfbqur.cloudfront.net/assets/quiz_dancer_registration/style_thumbnails/Lyrical__Mark_Meismer_214x116.jpg",
+        "cost": 410,
+        "id": 50507
+    },
+    {
+        "form": "Modern",
+        "instruction": "Modern dance was developed by now famous pioneers Martha Graham, Paul Taylor and Isadora Duncan, to name only a few. These classically trained dancers all shared the same sentiment that dance could be enjoyed outside of the realms of rigid ballet. Modern dance was created to show emotion and a more \"human\" side to the art, a striking contrast to the strict rules and guidelines of ballet, which was the most popular style of dance in America at that time.",
+        "img": "https://d22g5lrmqfbqur.cloudfront.net/assets/quiz_dancer_registration/style_thumbnails/Modern_Billy_Bell_214x116.jpg",
+        "cost": 330,
+        "id": 50508
+    },
+    
+    {
+        "form": "Musical Theatre",
+        "instruction": "Don’t get us wrong — we love to lay on the couch as much as the next person. But during a time like this, it’s also super important to move for a bit each day. And what better way to exercise than with dance moves worthy of a Broadway stage? We’ve compiled 12 step-by-step videos from Broadway choreographers and dancers that’ll help keep you moving, grooving, and singing while you’re at home.",
+        "img": "https://d22g5lrmqfbqur.cloudfront.net/assets/quiz_dancer_registration/style_thumbnails/Musical_Theatre_Grasan_Kingsberry_214x116.jpg",
+        "cost": 461,
+        "id": 50509
+    },
+    {
+        "form": "Hip-Hop",
+        "instruction": "You will learn everything you need to learn how to dance Hip Hop, from understanding music to where to find a Hip Hop dance class in your community. Ready to learn how to dance Hip Hop? Let’s get moving.",
+        "img": "https://d22g5lrmqfbqur.cloudfront.net/assets/quiz_dancer_registration/style_thumbnails/Hip-Hop_Vinh_Nguyen_214x116.jpg",
+        "cost": 345,
+        "id": 50510
+    }
+]
